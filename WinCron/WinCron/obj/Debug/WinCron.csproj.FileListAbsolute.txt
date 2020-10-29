@@ -1,0 +1,6 @@
+C:\Users\ngudger\source\repos\WinCron\WinCron\obj\Debug\WinCron.csproj.CoreCompileInputs.cache
+C:\Users\ngudger\source\repos\WinCron\WinCron\bin\Debug\WinCron.exe.config
+C:\Users\ngudger\source\repos\WinCron\WinCron\bin\Debug\WinCron.exe
+C:\Users\ngudger\source\repos\WinCron\WinCron\bin\Debug\WinCron.pdb
+C:\Users\ngudger\source\repos\WinCron\WinCron\obj\Debug\WinCron.exe
+C:\Users\ngudger\source\repos\WinCron\WinCron\obj\Debug\WinCron.pdb
