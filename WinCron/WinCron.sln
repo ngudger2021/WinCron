@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinCron", "WinCron\WinCron.csproj", "{B41BFA74-97AA-40C8-8972-1EC412F02C5E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinCronTests", "WinCronTests\WinCronTests.csproj", "{93814AA7-0884-49DF-B0EF-88754E78EDD6}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "WinCronInstaller", "WinCronInstaller\WinCronInstaller.vdproj", "{1CD7F6D6-4052-45B5-A93F-CDE02792760A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,12 @@ Global
 		{B41BFA74-97AA-40C8-8972-1EC412F02C5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B41BFA74-97AA-40C8-8972-1EC412F02C5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B41BFA74-97AA-40C8-8972-1EC412F02C5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93814AA7-0884-49DF-B0EF-88754E78EDD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93814AA7-0884-49DF-B0EF-88754E78EDD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93814AA7-0884-49DF-B0EF-88754E78EDD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93814AA7-0884-49DF-B0EF-88754E78EDD6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CD7F6D6-4052-45B5-A93F-CDE02792760A}.Debug|Any CPU.ActiveCfg = Debug
+		{1CD7F6D6-4052-45B5-A93F-CDE02792760A}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

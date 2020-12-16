@@ -4,3 +4,12 @@ C:\Users\ngudger\source\repos\WinCron\WinCron\bin\Debug\WinCron.exe
 C:\Users\ngudger\source\repos\WinCron\WinCron\bin\Debug\WinCron.pdb
 C:\Users\ngudger\source\repos\WinCron\WinCron\obj\Debug\WinCron.exe
 C:\Users\ngudger\source\repos\WinCron\WinCron\obj\Debug\WinCron.pdb
+C:\Users\nick\source\repos\WinCron\WinCron\WinCron\bin\Debug\WinCron.exe.config
+C:\Users\nick\source\repos\WinCron\WinCron\WinCron\bin\Debug\WinCron.exe
+C:\Users\nick\source\repos\WinCron\WinCron\WinCron\bin\Debug\WinCron.pdb
+C:\Users\nick\source\repos\WinCron\WinCron\WinCron\obj\Debug\WinCron.csprojAssemblyReference.cache
+C:\Users\nick\source\repos\WinCron\WinCron\WinCron\obj\Debug\WinCron.csproj.CoreCompileInputs.cache
+C:\Users\nick\source\repos\WinCron\WinCron\WinCron\obj\Debug\WinCron.exe
+C:\Users\nick\source\repos\WinCron\WinCron\WinCron\obj\Debug\WinCron.pdb
+C:\Users\nick\source\repos\WinCron\WinCron\WinCron\obj\Debug\WinCron.ProjectInstaller.resources
+C:\Users\nick\source\repos\WinCron\WinCron\WinCron\obj\Debug\WinCron.csproj.GenerateResource.cache
